@@ -3,6 +3,6 @@
 	"description": "本项目为http://www.codeplex.com/PHPExcel的备份项目",
 	"keywords": ["excel","xls","xlsx","phpexcel"],
 	"require": {},
-	"license": "LGPL-2.1-only / LGPL-2.1-or-later",
+	"license": "LGPL-2.1-or-later",
     "version": "1.0.0"
 }
